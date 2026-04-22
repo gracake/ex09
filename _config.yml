@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Improving COMP110: Analyzing Prior Experience
+email: gracekennedy364@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In this analysis, I explored whether students with little or no prior coding experience reported lower understanding, higher difficulty, and lower confidence in COMP110. This would help evaluate whether beginner-level modules could be useful for supporting students without programming experience. I looked at the difficulty, prior_exp, and understanding data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: gracake
+github_username:  gracake
 
 # Build settings
 # Build settings
