@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Improving COMP110: Analyzing Prior Experience
+title: "Improving COMP110: Analyzing Prior Experience"
 email: gracekennedy364@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In this analysis, I explored whether students with little or no prior coding experience reported lower understanding, higher difficulty, and lower confidence in COMP110. This would help evaluate whether beginner-level modules could be useful for supporting students without programming experience. I looked at the difficulty, prior_exp, and understanding data.
